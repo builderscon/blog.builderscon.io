@@ -6,7 +6,7 @@ categories: builderscon
 author: richard-imaoka
 ---
 
-さる2016年7月14日木曜日、私たちbuildersconスタッフは渋谷某所にあるオシャレ居酒屋おもむき、
+さる2016年7月14日木曜日、私たちbuildersconスタッフは渋谷某所にあるオシャレ居酒屋へおもむき、
 月例としているスタッフミーティングを開催しました。写真提供はbuilderscon運営スタッフでもある[@uzulla](http://uzulla.hateblo.jp/entry/2016/07/15/033859)さんです。
 
 最初に乾杯で互いの苦労をねぎらったのち、
