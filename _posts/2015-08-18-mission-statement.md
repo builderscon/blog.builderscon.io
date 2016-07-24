@@ -2,9 +2,12 @@
 layout: post
 title:  "Mission Statement"
 date:   2015-08-18 13:06:50 +0900
-categories: builderscon
+category: builderscon
+permalink: /builderscon/:year/:month/:day/:title.html
 author: lestrrat
 ---
+<!-- front-matter category is used for news filtering in conf.builderscon.io, so if post is conference news, match it with conference slug (e.g.)builderscon/tokyo/2016 -->
+<!-- front-matter permalink in each post is to keep backward compat, not needed for new posts -->
 
 builderscon (Builders Conference) is to be conference for the modern world builders -- programmers, mechanical engineers, future technology architects -- the architects that build our services, our gadgets, our infrastructure, our future.
 

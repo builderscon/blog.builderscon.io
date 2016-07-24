@@ -2,9 +2,12 @@
 layout: post
 title:  "builderscon Session Timer for Android"
 date:   2016-07-04 10:30:00 +0900
-categories: builderscon
+category: builderscon
+permalink: /builderscon/:year/:month/:day/:title.html
 author: lestrrat
 ---
+<!-- front-matter category is used for news filtering in conf.builderscon.io, so if post is conference news, match it with conference slug (e.g.)builderscon/tokyo/2016 -->
+<!-- front-matter permalink in each post is to keep backward compat, not needed for new posts -->
 
 （日本語は英語の後にあります）
 

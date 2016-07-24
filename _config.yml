@@ -7,8 +7,8 @@ twitter_username: builderscon
 github_username:  builderscon
 fb_app_id: 1537973726511652
 fb_page_id: 1233910219973110
-
 markdown: kramdown
+permalink: /:year/:month/:day/:title.html
 
 authors:
   lestrrat:

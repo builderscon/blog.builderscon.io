@@ -2,9 +2,12 @@
 layout: post
 title:  "Call for sponsorship for builderscon #1"
 date:   2016-06-06 10:00:00 +0900
-categories: builderscon
+category: builderscon/tokyo/2016
+permalink: /builderscon/:year/:month/:day/:title.html
 author: lestrrat
 ---
+<!-- front-matter category is used for news filtering in conf.builderscon.io, so if post is conference news, match it with conference slug (e.g.)builderscon/tokyo/2016 -->
+<!-- front-matter permalink in each post is to keep backward compat, not needed for new posts -->
 
 We have started looking for sponsors for the [first builderscon](http://blog.builderscon.io/builderscon/2016/06/06/annoucing-builderscon-1.html) conference.
 

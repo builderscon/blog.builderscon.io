@@ -2,10 +2,13 @@
 layout: post
 title:  "Releasing Our Session Timers"
 date:   2016-06-27 10:30:00 +0900
-categories: builderscon
+category: builderscon
+permalink: /builderscon/:year/:month/:day/:title.html
 author: lestrrat
 ---
-
+<!-- front-matter category is used for news filtering in conf.builderscon.io, so if post is conference news, match it with conference slug (e.g.)builderscon/tokyo/2016 -->
+<!-- front-matter permalink in each post is to keep backward compat, not needed for new posts -->
+category
 （日本語は英語の後にあります）
 
 Time keeping during a session is one of the main responsibilities of a conference staff. It's a simple enough job, but there are subtle things that must be taught to new staff members each time we hold a conference.
