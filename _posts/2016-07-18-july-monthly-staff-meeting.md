@@ -2,9 +2,11 @@
 layout: post
 title:  "builderscon Monthly Staff Meeting in July"
 date:   2016-07-18 10:30:00 +0900
-categories: builderscon
+category: builderscon/tokyo/2016
 author: richard-imaoka
 ---
+<!-- front-matter category is used for news filtering in conf.builderscon.io, so if post is conference news, match it with conference slug (e.g.)builderscon/tokyo/2016 -->
+<!-- front-matter permalink in each post is to keep backward compat, not needed for new posts -->
 
 さる2016年7月14日木曜日、私たちbuildersconスタッフは渋谷某所にあるオシャレ居酒屋へおもむき、
 月例としているスタッフミーティングを開催しました。写真提供はbuilderscon運営スタッフでもある[@uzulla](http://uzulla.hateblo.jp/entry/2016/07/15/033859)さんです。
