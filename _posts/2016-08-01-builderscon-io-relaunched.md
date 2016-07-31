@@ -35,7 +35,7 @@ We *will* have a call for papers around September ~ October, so we hope to see y
 
 We also have a new mascot! <a href="https://builderscon.io/beacon">Meet Mr. B(Beacon), our mascot beaver</a>.
 
-![https://builderscon.io/assets/images/mrbeacon-004.png](https://builderscon.io/assets/images/mrbeacon-004.png)
+![](https://builderscon.io/assets/images/mrbeacon-004.png)
 
 Mr. B is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Please feel free to use it to create emojis or whatever (see [Terms Of Use](https://builderscon.io/beacon))!
 
@@ -72,7 +72,7 @@ Mr. B is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-n
 
 新たにマスコットキャラクターを作成しました！こちらが<a href="https://builderscon.io/beacon">ビーコン君です</a>.
 
-![https://builderscon.io/assets/images/mrbeacon-004.png](https://builderscon.io/assets/images/mrbeacon-004.png)
+![](https://builderscon.io/assets/images/mrbeacon-004.png)
 
 ビーコン君は[CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)自由に利用可能です。Slackでの絵文字等、お好きにお使いください ([利用条件](https://builderscon.io/beacon)をご確認ください)!
 
