@@ -56,7 +56,7 @@ Mr. B is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-n
 
 [builderscon tokyo 2016](https://builderscon.io/builderscon/tokyo/2016)の[スポンサーの皆様](https://builderscon.io/builderscon/tokyo/2016/sponsors)には厚く、厚くお礼を申し上げたいと思います。今回は特に初めての開催ということもあり、まだ野のものとも山のものともわからない本カンファレンスにスポンサーしてくださった皆様には感謝が絶えません。本当にありがとうございます。
 
-今回スポンサーの皆様のご協力なしではここまでこぎ着けることができませんんでした。是非[スポンサーページにたちより、スポンサーの皆様を確認していただければ嬉しいです](https://builderscon.io/builderscon/tokyo/2016/sponsors)。
+今回スポンサーの皆様のご協力なしではここまでこぎ着けることができませんでした。是非[スポンサーページにたちより、スポンサーの皆様を確認していただければ嬉しいです](https://builderscon.io/builderscon/tokyo/2016/sponsors)。
 
 ## ゲストスピーカー、およびトーク公募について
 
