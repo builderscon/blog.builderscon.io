@@ -9,7 +9,7 @@ author: lestrrat
 
 こんにちは、builderscon主宰の牧です！
 
-「知らなかった、を聞く」ギーク達のお祭り、[builderscon tokyo 2016](https://builderscon.io/builderscon/tokyo/2016)の(チケットが発売開始となりました)[http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html]！
+「知らなかった、を聞く」ギーク達のお祭り、[builderscon tokyo 2016](https://builderscon.io/builderscon/tokyo/2016)の[チケットが発売開始となりました](http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html)！
 
 <center><span style="font-size: 2em; font-weight: bold"><a href="http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html">builderscon tokyo 2016チケット購入はこちらから！</a></span></center>
 
