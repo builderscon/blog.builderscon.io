@@ -14,7 +14,7 @@ author: lestrrat
 <br/><center><span style="font-size: 2em; font-weight: bold"><a href="http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html">builderscon tokyo 2016チケット購入はこちらから！</a></span><img src="/images/builderscon-tickets.png"></center><br/>
 
 
-豪華ゲストスピーカー陣による人工衛星、[マルチプラットフォーム開発](https://builderscon.io/builderscon/tokyo/2016/session/d1996f70-1d04-4def-a13f-c8fed0415b77)、[人工知能](https://builderscon.io/builderscon/tokyo/2016/session/c89294cc-7a77-4973-9f6a-2ab50cdc70e8)、[Kubernetes on AWS](https://builderscon.io/builderscon/tokyo/2016/session/ff8657cb-a751-4415-ad93-374fb9fda2b6)など、皆さんの好奇心を刺激する多彩なテーマのトークを披露していただく他、一般公募からも技術者達の熱い気持ちを皆様とシェアしていただきます（[一般公募は10/31まで受付中](https://builderscon.builderscon/tokyo/2016/cfp)！)
+豪華ゲストスピーカー陣による人工衛星、[マルチプラットフォーム開発](https://builderscon.io/builderscon/tokyo/2016/session/d1996f70-1d04-4def-a13f-c8fed0415b77)、[人工知能](https://builderscon.io/builderscon/tokyo/2016/session/c89294cc-7a77-4973-9f6a-2ab50cdc70e8)、[Kubernetes on AWS](https://builderscon.io/builderscon/tokyo/2016/session/ff8657cb-a751-4415-ad93-374fb9fda2b6)など、皆さんの好奇心を刺激する多彩なテーマのトークを披露していただく他、一般公募からも技術者達の熱い気持ちを皆様とシェアしていただきます（[一般公募は10/31まで受付中](https://builderscon.builderscon.io/tokyo/2016/cfp)！)
 
 今回は初の「builderscon」のため、極々小規模での開催となります。チケットの枚数は限られていますので、ご購入はお早めに！
 
