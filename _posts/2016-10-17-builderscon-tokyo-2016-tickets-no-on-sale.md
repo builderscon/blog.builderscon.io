@@ -32,7 +32,7 @@ Tickets for builderscon Tokyo 2016 are now on sale!
 
 "Discover Something New" at [builderscon tokyo 2016](https://builderscon.io/builderscon/tokyo/2016), the festival for geeks! [The tickets are now on sale](http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html).
 
-<br/><center><span style="font-size: 2em; font-weight: bold"><a href="http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.htm">Get your builderscon tokyo 2016 ticket now!</a></span></center><br/>
+<br/><center><span style="font-size: 2em; font-weight: bold"><a href="http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html">Get your builderscon tokyo 2016 ticket now!</a></span></center><br/>
 
 We will have talks from guest speakers, which will cover exciting new fields such as orbital satellites, development for multiple-platform tools (including Windows!), artificial intelligence, and Kubernetes on AWS. [We are also accepting proposals](https://builderscon.io/builderscon/tokyo/2016/cfp)! The call for papers ends on Oct 31, send your proposals soon!
 
