@@ -20,7 +20,7 @@ author: lestrrat
 
 以下の点にご注意ください：
 
-* 無料の懇親会が開催されますが、[別途チケット購入が必要です](http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html)。
+* 無料の懇親会が開催されますが、[別途チケット購入が必要です](http://passmarket.yahoo.co.jp/event/show/detail/010aiiygpp5s.html)。
 * 本編、懇親会いずれに関してもスピーカー・スタッフがチケット購入する必要はありません。
 * トーク採択がまだですので、トークを応募されている方は念のためチケットの購入をお勧めいたします
 
@@ -40,7 +40,7 @@ This is the very first time we hold builderscon, so tickets will be limited. Get
 
 A few notes:
 
-* There will be a social afterwards, but [YOU MUST PURCHASE THIS FREE TICKET](http://passmarket.yahoo.co.jp/event/show/detail/01jgthydx547.html)
+* There will be a social afterwards, but [YOU MUST PURCHASE THIS FREE TICKET](http://passmarket.yahoo.co.jp/event/show/detail/010aiiygpp5s.html)
 * If you are a speaker or a staff, you DO NOT NEED TO PURCHASE A TICKET.
 * If you have sent in a proposal, but you do not know if you will be accepted yet, we recommend that you purchase a ticket just in case
 
