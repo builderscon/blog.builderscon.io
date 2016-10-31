@@ -17,7 +17,7 @@ author: hasegawatomoki
 スタッフ参加期間: 2016/12/3（土） 8:00 ～ 21:00  
 募集人数: 若干名  
 
-[応募フォーム](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform)からご応募ください。
+[応募フォームからご応募](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform)ください。
 応募者多数の場合は早期に締め切ることがあります。また、ご応募頂いた方には、11月10日までにご連絡します。
 
 ボランティアスタッフになると以下の特典があります。
