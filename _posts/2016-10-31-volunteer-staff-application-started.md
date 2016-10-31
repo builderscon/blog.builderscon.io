@@ -17,7 +17,7 @@ author: hasegawatomoki
 スタッフ参加期間: 2016/12/3（土） 8:00 ～ 21:00  
 募集人数: 若干名  
 
-[応募フォームからご応募](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform)ください。
+[応募フォームからご応募](https://docs.google.com/forms/d/e/1FAIpQLSfPruFvQpK-R9QE_k5BMvP5y7pnon1crq7pzSuSIxyz6b-P9w/viewform)ください。
 応募者多数の場合は早期に締め切ることがあります。また、ご応募頂いた方には、11月10日までにご連絡します。
 
 ボランティアスタッフになると以下の特典があります。
@@ -40,7 +40,7 @@ Application Deadline: November 7, 2016  10:00am JST
 Hours: December 3, 2016  8:00am to 9:00pm
 : a few people
 
-If you are interested, [please apply from this form](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform).
+If you are interested, [please apply from this form](https://docs.google.com/forms/d/e/1FAIpQLSfPruFvQpK-R9QE_k5BMvP5y7pnon1crq7pzSuSIxyz6b-P9w/viewform).
 
 When you become a volunteer staff, you get
 
@@ -49,4 +49,3 @@ When you become a volunteer staff, you get
 * Free admission to the post-event social
 
 Tasks for volunteer staff include reception, setting up the conference rooms, and MC'ing for the sessions. While you are welcome to listen to the sessions when you can, you will probably not be able to do so in full. But helping to organize a conference is a very rewarding experience: we look forward to seeing you at the conference!
-
