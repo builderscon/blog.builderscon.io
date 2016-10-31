@@ -20,8 +20,7 @@ author: kamadango
 
 カンファレンスに関わろうと思ったきっかけは、ずっとオープンソースコミュニティに「何かしら貢献」したいという気持ちがあったからです。もう一点挙げると、外部で何かをやっている！というキャリアというか、経験が欲しかったところですね。誰かに誘われたということでなく、自分から。Rubyの20周年のイベントやYAPCにボランティアスタッフで参加しました。コードを書くこと以外にもオープンソースコミュニティに貢献する手段はあるんだということが、まだスタッフをされたことのない方に伝えたいことです。
 
-参考：[プログラミング初心者でも始められるコミュニティへの参加と貢献]
-(https://speakerdeck.com/onigra/puroguraminguchu-xin-zhe-demoshi-merarerukomiyuniteihefalsecan-jia-togong-xian)
+参考：[プログラミング初心者でも始められるコミュニティへの参加と貢献](https://speakerdeck.com/onigra/puroguraminguchu-xin-zhe-demoshi-merarerukomiyuniteihefalsecan-jia-togong-xian)
 
 ##### エンジニア同士の新しいつながりができる 
 
@@ -38,8 +37,7 @@ author: kamadango
 
 ![](/assets/images/2016-10/interviewPhoto004.jpg)
 
-参考：[TDD(Twitter Driven Datsu-Syoshinsya) / Twitter駆動脱初心者]
-(https://speakerdeck.com/onigra/twitterqu-dong-tuo-chu-xin-zhe-number-yapcasia)
+参考：[TDD(Twitter Driven Datsu-Syoshinsya) / Twitter駆動脱初心者](https://speakerdeck.com/onigra/twitterqu-dong-tuo-chu-xin-zhe-number-yapcasia)
 
 ##### 声をあげる人、あげない人の才能に違いはない
 
@@ -54,8 +52,7 @@ author: kamadango
 
 ボランティアスタッフで参加する際に、僕は自分から参加したんですが、当日バディ制度（経験あるスタッフがフォローする）があってすごくよかったです。誰も知らない状況からでも、無理なくスムーズに役割を担当することができ、作業を進めていくうちに打ち解けていく感じもよかったです。初めてスタッフになる人でも安心して入っていけます。
 
-参考：[YAPC::Asia 2014 ボランティアスタッフとLTを終えて]
-(http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/)
+参考：[YAPC::Asia 2014 ボランティアスタッフとLTを終えて](http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/)
 
 
 #### 2010年- YAPC::Asiaボランティアスタッフ [monmon](https://twitter.com/lesamoureuses)さん
@@ -66,8 +63,7 @@ author: kamadango
 
 2009年にYAPCを知り、2010年にボランティアスタッフとして入り、朝早くからみんなでTシャツをたたむ仕事をしたのを覚えています。その後、2013年にコアスタッフに入り、準備から前夜祭、本編2日とフルコミットしました。2015年はまたボランティアスタッフに戻り、会社やプライベートとの兼ね合いをみながら関わっていました。
 
-参考：[YAPC::Asia2010にボランティアで参加して楽しんで、そして今からYAPC::Asia2011をワクワクして待ってる]
-(http://monmon.hateblo.jp/entry/20101016/1287365546)
+参考：[YAPC::Asia2010にボランティアで参加して楽しんで、そして今からYAPC::Asia2011をワクワクして待ってる](http://monmon.hateblo.jp/entry/20101016/1287365546)
 
 
 ##### カンファレンス以外にもみんな仕事がある
@@ -89,8 +85,7 @@ author: kamadango
 
 スタッフはみんな、参加者の人に楽しんでもらい、カンファレンスを成功させたいと強く思って頑張っています。でも難しいのがそういう中だからこそ「タスクができない」って言うこと。できないことは、なんの罪ではないし、恥ずかしがらずに「できない」ということが大事。普段の仕事もあるし、想定通りいかないこともある。実際リアサインしたのもいくつかあり、フォローアップがなされていました。責任感と使命感も大事だけど、みんなでフォローアップしあうのがもっと大事だと思います。
 
-参考：[YAPC::Asia Tokyo がなかったら今の僕はないと言っても良いくらい楽しんで参加し続けました]
-(http://monmon.hateblo.jp/entry/2015/08/24/142801)
+参考：[YAPC::Asia Tokyo がなかったら今の僕はないと言っても良いくらい楽しんで参加し続けました](http://monmon.hateblo.jp/entry/2015/08/24/142801)
 
 
 #### 2012年- YAPC::Asiaボランティアスタッフ[Takeshi Yako](https://twitter.com/takeshiyako)さん
@@ -122,8 +117,7 @@ author: kamadango
 
 スタッフとして何をしていたかというと、具体的には有線コードを養生テープで目張りしたりとか、ビデオ録画したり、トークの注意事項を話したり、スポンサー企業のノベルティ詰めをしたりなどしてました。宅配便を開けて、仕分けして、ノベルティバックに詰め込むことをもくもくと作業していました。2015年には方式を変えたら早くなるんじゃないかということで、試してみたところ今まで5~6時間かかっていた作業が、3時間に圧縮されて嬉しかったですね。
 
-参考：[How to pack Novelty goods YAPC::Asia Tokyo 2015]
-(https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015)
+参考：[How to pack Novelty goods YAPC::Asia Tokyo 2015](https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015)
 
 
 ##### なにかあったらリーダーに
@@ -134,6 +128,7 @@ author: kamadango
 
  [onigra_](https://twitter.com/onigra_)さん、 [monmon](https://twitter.com/lesamoureuses)さん、[Takeshi Yako](https://twitter.com/takeshiyako)さんにお話を聞きました。ありがとうございました。
 
-カンファレンスボランティアスタッフってどんなことするんだろう？なんとなくイメージつきましたでしょうか？ buildersconの第一回は12/3(土)。一緒にカンファレンスをつくることで、新しい出会いがたくさん生まれます。興味ある方は是非ご応募ください。
+カンファレンスボランティアスタッフってどんなことするんだろう？なんとなくイメージつきましたでしょうか？ buildersconの第一回は12/3(土)。一緒にカンファレンスを作ることで、新しい出会いがたくさん生まれます。興味ある方は是非ご応募ください。
 
  [builderscons2016ボランティアスタッフ募集](http://blog.builderscon.io/builderscon/2016/10/31/volunteer-staff-application-started.html)
+ 
