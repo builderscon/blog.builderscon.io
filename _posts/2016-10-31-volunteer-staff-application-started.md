@@ -15,7 +15,7 @@ author: hasegawatomoki
 
 募集〆切: 2016/11/7（月）10:00  
 スタッフ参加期間: 2016/12/3（土） 8:00 ～ 21:00  
-募集人数: 10名前後  
+募集人数: 若干名  
 
 応募者多数の場合は早期に締め切ることがあります。また、ご応募頂いた方には、11月10日までにご連絡します。
 
@@ -34,6 +34,10 @@ author: hasegawatomoki
 
 Volunteer staff application started!
 
+Application closed: November 7, 2016  10:00am JST
+Staff works: December 3, 2016  8:00am to 9:00pm
+Staffs we need: a few people
+
 We have special gifts for volunteer staffs.
 
 * Conference T-shirt
@@ -43,9 +47,4 @@ We have special gifts for volunteer staffs.
 Main tasks of volunteer satff are reception, setting up a conference room, MC etc.
 Volunteer staff may can't hear talks at full, but it's very fun making conference with other staff!
 Talks are recorded and will be published.
-
-
-Application closed: November 7, 2016  10:00am JST
-Staff works: December 3, 2016  8:00am to 9:00pm
-Staffs we need: 10 people
 
