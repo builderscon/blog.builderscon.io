@@ -128,6 +128,7 @@ author: kamadango
 
  [onigra_](https://twitter.com/onigra_)さん、 [monmon](https://twitter.com/lesamoureuses)さん、[Takeshi Yako](https://twitter.com/takeshiyako)さんにお話を聞きました。ありがとうございました。
 
-カンファレンスボランティアスタッフってどんなことするんだろう？なんとなくイメージつきましたでしょうか？ buildersconの第一回は12/3(土)。一緒にカンファレンスをつくることで、新しい出会いがたくさん生まれます。興味ある方は是非ご応募ください。
+カンファレンスボランティアスタッフってどんなことするんだろう？なんとなくイメージつきましたでしょうか？ buildersconの第一回は12/3(土)。一緒にカンファレンスを作ることで、新しい出会いがたくさん生まれます。興味ある方は是非ご応募ください。
 
  [builderscons2016ボランティアスタッフ募集](http://blog.builderscon.io/builderscon/2016/10/31/volunteer-staff-application-started.html)
+ 
