@@ -34,18 +34,19 @@ author: hasegawatomoki
 
 ---
 
-Volunteer staff application started!
+We are now looking for volunteer staff to help us run builderscon tokyo 2016!
 
-Application closed: November 7, 2016  10:00am JST
-Staff works: December 3, 2016  8:00am to 9:00pm
-Staffs we need: a few people
+Application Deadline: November 7, 2016  10:00am JST
+Hours: December 3, 2016  8:00am to 9:00pm
+: a few people
 
-We have special gifts for volunteer staffs.
+If you are interested, [please apply from this form](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform).
 
-* Conference T-shirt
-* Conference ticket
-* Convivial party ticket
+When you become a volunteer staff, you get
 
-Main tasks of volunteer satff are reception, setting up a conference room, MC etc.
-Volunteer staff may can't hear talks at full, but it's very fun making conference with other staff!
-Talks are recorded and will be published.
+* A conference T-shirt
+* Free admission to the event
+* Free admission to the post-event social
+
+Tasks for volunteer staff include reception, setting up the conference rooms, and MC'ing for the sessions. While you are welcome to listen to the sessions when you can, you will probably not be able to do so in full. But helping to organize a conference is a very rewarding experience: we look forward to seeing you at the conference!
+
