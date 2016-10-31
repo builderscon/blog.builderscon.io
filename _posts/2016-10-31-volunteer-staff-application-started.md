@@ -31,6 +31,7 @@ author: hasegawatomoki
 （なお、トークは録画され、後日公開されます！）
 
 いっしょにbuilderscon tokyo 2016を作ってみませんか？
+
 ---
 
 Volunteer staff application started!
