@@ -7,12 +7,12 @@ permalink: /builderscon/:year/:month/:day/:title.html
 author: kamadango
 ---
 
-ボランティアスタッフインタビュー
+#### ボランティアスタッフインタビュー
 
 カンファレンスボランティアスタッフってどんなことするんだろう？
 そんな疑問に応えるべく、過去にスタッフをされていた方3名にお話を聞きました。スタッフやってみようかな？と思ってる方の一助になれば幸いです。
 
-2014年YAPC::Asiaボランティアスタッフ  [onigra_](https://twitter.com/onigra_)さん
+#### 2014年YAPC::Asiaボランティアスタッフ  [onigra_](https://twitter.com/onigra_)さん
 
 ##### コードを書く以外にもオープンソースコミュニティに貢献する手段
 
@@ -58,7 +58,7 @@ https://speakerdeck.com/onigra/twitterqu-dong-tuo-chu-xin-zhe-number-yapcasia
 http://onigra.github.io/blog/2014/08/30/yapc-asia-2014-is-over/
 
 
-2010年- YAPC::Asiaボランティアスタッフ [monmon](https://twitter.com/lesamoureuses)さん
+#### 2010年- YAPC::Asiaボランティアスタッフ [monmon](https://twitter.com/lesamoureuses)さん
 
 ##### カンファレンスとの関わり方
 
@@ -93,7 +93,8 @@ http://monmon.hateblo.jp/entry/20101016/1287365546
 http://monmon.hateblo.jp/entry/2015/08/24/142801
 
 
-2012年- YAPC::Asiaボランティアスタッフ[Takeshi Yako](https://twitter.com/takeshiyako)さん
+#### 2012年- YAPC::Asiaボランティアスタッフ[Takeshi Yako](https://twitter.com/takeshiyako)さん
+
 #####  Twitterの募集が目について
 
 ![](/assets/images/2016-10/interviewPhoto011.jpg)
