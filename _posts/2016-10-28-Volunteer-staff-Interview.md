@@ -136,3 +136,4 @@ https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-20
 
 カンファレンスボランティアスタッフってどんなことするんだろう？なんとなくイメージつきましたでしょうか？ buildersconの第一回は12/3(土)。一緒にカンファレンスをつくることで、新しい出会いがたくさん生まれます。興味ある方は是非ご応募ください。
 
+ [builderscons2016ボランティアスタッフ募集](http://blog.builderscon.io/builderscon/2016/10/31/volunteer-staff-application-started.html)
