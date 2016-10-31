@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Volunteer staff Interview"
-date:   2016-10-28 10:00:00 +0900
+date:   2016-11-01 10:00:00 +0900
 category: builderscon/tokyo/2016
 permalink: /builderscon/:year/:month/:day/:title.html
 author: kamadango
