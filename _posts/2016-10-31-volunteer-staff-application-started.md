@@ -17,6 +17,7 @@ author: hasegawatomoki
 スタッフ参加期間: 2016/12/3（土） 8:00 ～ 21:00  
 募集人数: 若干名  
 
+[応募フォーム](https://docs.google.com/forms/d/16SEyi_smAggBha7zodUci4OmRtPJ8Yz9Br-_8SB61yY/closedform)からご応募ください。
 応募者多数の場合は早期に締め切ることがあります。また、ご応募頂いた方には、11月10日までにご連絡します。
 
 ボランティアスタッフになると以下の特典があります。
@@ -47,4 +48,3 @@ We have special gifts for volunteer staffs.
 Main tasks of volunteer satff are reception, setting up a conference room, MC etc.
 Volunteer staff may can't hear talks at full, but it's very fun making conference with other staff!
 Talks are recorded and will be published.
-
