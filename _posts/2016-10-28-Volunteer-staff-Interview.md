@@ -20,8 +20,8 @@ author: kamadango
 
 カンファレンスに関わろうと思ったきっかけは、ずっとオープンソースコミュニティに「何かしら貢献」したいという気持ちがあったからです。もう一点挙げると、外部で何かをやっている！というキャリアというか、経験が欲しかったところですね。誰かに誘われたということでなく、自分から。Rubyの20周年のイベントやYAPCにボランティアスタッフで参加しました。コードを書くこと以外にもオープンソースコミュニティに貢献する手段はあるんだということが、まだスタッフをされたことのない方に伝えたいことです。
 
-参考：プログラミング初心者でも始められるコミュニティへの参加と貢献 
-https://speakerdeck.com/onigra/puroguraminguchu-xin-zhe-demoshi-merarerukomiyuniteihefalsecan-jia-togong-xian
+参考：[プログラミング初心者でも始められるコミュニティへの参加と貢献]
+(https://speakerdeck.com/onigra/puroguraminguchu-xin-zhe-demoshi-merarerukomiyuniteihefalsecan-jia-togong-xian)
 
 ##### エンジニア同士の新しいつながりができる 
 
