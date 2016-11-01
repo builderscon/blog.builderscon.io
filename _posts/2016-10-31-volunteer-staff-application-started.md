@@ -13,7 +13,7 @@ author: hasegawatomoki
 
 今日は、[builderscon tokyo 2016](https://builderscon.io/builderscon/tokyo/2016)の当日に運営をお手伝い頂くボランティアスタッフの募集のお知らせです。
 
-募集〆切: 2016/11/7（月）10:00  
+募集〆切: ~~2016/11/7（月）10:00~~ 締め切りました！  
 スタッフ参加期間: 2016/12/3（土） 8:00 ～ 21:00  
 募集人数: 若干名  
 
@@ -36,9 +36,9 @@ author: hasegawatomoki
 
 We are now looking for volunteer staff to help us run builderscon tokyo 2016!
 
-Application Deadline: November 7, 2016  10:00am JST
-Hours: December 3, 2016  8:00am to 9:00pm
-: a few people
+Application Deadline: ~~November 7, 2016  10:00am JST~~  Closed!  
+Hours: December 3, 2016  8:00am to 9:00pm  
+: a few people  
 
 If you are interested, [please apply from this form](https://docs.google.com/forms/d/e/1FAIpQLSfPruFvQpK-R9QE_k5BMvP5y7pnon1crq7pzSuSIxyz6b-P9w/viewform).
 
